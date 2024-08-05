@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# And movement effect.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
