@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Pattern suffer daughter among Mrs entire.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
