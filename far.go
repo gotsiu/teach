@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Country role material box offer.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
