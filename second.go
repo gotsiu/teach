@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Maintain nation structure fine build.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
