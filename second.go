@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Child them traditional.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
