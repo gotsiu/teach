@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Cover million will address happen reflect.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
