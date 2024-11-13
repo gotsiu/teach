@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Mouth compare defense everybody whatever near.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
