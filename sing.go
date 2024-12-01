@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Method less anyone push director.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
