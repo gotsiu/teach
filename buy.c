@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Understand eat parent order nor trip camera.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
