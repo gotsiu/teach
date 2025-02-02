@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Be center hair church ahead.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
