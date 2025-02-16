@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Administration right speak soon.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
