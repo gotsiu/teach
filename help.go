@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Make side news up country cover bank our.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
